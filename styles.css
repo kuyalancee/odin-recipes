@@ -26,6 +26,12 @@ body
     background-color: #dfe6eb;
 }
 
+#h1-header
+{
+    background-color: #c7d7e2;
+    text-align: center;
+}
+
 .header
 {
     font-style: italic;
