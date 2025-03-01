@@ -14,3 +14,14 @@
 {
     background-color: #242526;
 }
+
+div
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* this kinda useless could just put it in body */
+}
+
+body
+{
+    background-color: #dfe6eb;
+}
