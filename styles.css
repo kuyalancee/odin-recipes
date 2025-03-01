@@ -25,3 +25,13 @@ body
 {
     background-color: #dfe6eb;
 }
+
+.header
+{
+    font-style: italic;
+}
+
+li, p
+{
+    line-height: 1.5;
+}
